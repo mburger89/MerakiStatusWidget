@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "^5.12.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "request": "^2.88.0"
   }
 }
